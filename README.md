@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 📮 How to reach me
+- Twitter: [@vanillaCitron](https://twitter.com/vanillaCitron)
+- Email: [vanilla#citrons.cc](mailto:vanilla@citrons.cc)
+
 <!-- Snake Game Image, codes from @ann61c -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lcandy2/lcandy2/snake-game/github-contribution-grid-snake-dark.svg">
