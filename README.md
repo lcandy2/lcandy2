@@ -1,4 +1,4 @@
-### Hi there 👋 <img align="center" src="https://komarev.com/ghpvc/?username=lcandy2" alt="lcandy2's GitHub Profile Views" />
+## Hi, I am lcandy2 👋 <img align="right" align="center" src="https://komarev.com/ghpvc/?username=lcandy2" alt="lcandy2's GitHub Profile Views" />
 
 <!-- Github Readme Stats Image, Thanks to @anuraghazra -->
 <picture>
