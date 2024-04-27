@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img align="center" src="https://komarev.com/ghpvc/?username=lcandy2" alt="lcandy2's GitHub Profile Views" />
 
 <!-- Github Readme Stats Image, Thanks to @anuraghazra -->
 <picture>
@@ -10,7 +10,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=lcandy2&show_icons=true&hide_rank=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lcandy2&show_icons=true&hide_rank=true&hide_title=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lcandy2&show_icons=true&hide_rank=true&hide_title=true" alt="lcandy2's GitHub Stats" />
 </picture>
 
 <!--
