@@ -32,6 +32,27 @@ Here are some ideas to get you started:
 - Twitter: [@vanillaCitron](https://twitter.com/vanillaCitron)
 - Email: [vanilla#citrons.cc](mailto:vanilla@citrons.cc)
 
+#### 🛠️ Skills and Tools
+<!-- Service Logos by Sawaratsuki
+https://github.com/SAWARATSUKI/ServiceLogos -->
+<p>
+<img height="48" alt="Next.js" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Next.js/Next.js.png">
+<img height="48" alt="Tailwindcss" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Tailwindcss/Tailwindcss6.png">
+<img height="48" alt="React" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/React/React.png">
+<img height="48" alt="TypeScript" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/TypeScript/TypeScript.png">
+<img height="48" alt="Node.js" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Node.js/Node.js.png">
+<img height="48" alt="Html" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Html/HTML.png">
+<img height="48" alt="Python" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Python/Python.png">
+<img height="48" alt="Kotlin" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Kotlin/Kotlin_New.png">
+<img height="48" alt="Swift" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Swift/Swift.png">
+<img height="48" alt="Vite" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Vite/Vite.png">
+<img height="48" alt="C" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/C/C.png">
+<img height="48" alt="C++" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/C++/C++.png">
+<img height="48" alt="Clion" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Clion/Clion.png">
+<img height="48" alt="Cloudflare" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Cloudflare/Cloudflare.png">
+<img height="48" alt="Figma" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Figma/Figma.png">
+</p>
+
 <!-- Snake Game Image, codes from @ann61c -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lcandy2/lcandy2/snake-game/github-contribution-grid-snake-dark.svg">
