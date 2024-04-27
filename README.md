@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+<!-- Github Readme Stats Image, Thanks to @anuraghazra -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lcandy2&show_icons=true&theme=dark&hide_rank=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lcandy2&show_icons=true&hide_rank=true&hide_title=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lcandy2&show_icons=true&hide_rank=true&hide_title=true" />
+</picture>
+
 <!--
 **lcandy2/lcandy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📮 How to reach me
+#### 📮 How to reach me
 - Twitter: [@vanillaCitron](https://twitter.com/vanillaCitron)
 - Email: [vanilla#citrons.cc](mailto:vanilla@citrons.cc)
 
