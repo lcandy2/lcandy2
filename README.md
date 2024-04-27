@@ -13,6 +13,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lcandy2&show_icons=true&hide_rank=true&hide_title=true" alt="lcandy2's GitHub Stats" />
 </picture>
 
+A computer science major from HUNAU. Trying to make more cool stuff
+
 <!--
 **lcandy2/lcandy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -57,5 +59,7 @@ https://github.com/SAWARATSUKI/ServiceLogos -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lcandy2/lcandy2/snake-game/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lcandy2/lcandy2/snake-game/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lcandy2/lcandy2/snake-game/github-contribution-grid-snake.svg">
+  <img height="96" align="right" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lcandy2/lcandy2/snake-game/github-contribution-grid-snake.svg">
 </picture>
+
+<sub>Find out some cool stuff here ⬇️</sub>
