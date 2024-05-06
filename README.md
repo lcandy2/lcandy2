@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <!-- Service Logos by Sawaratsuki
 https://github.com/SAWARATSUKI/ServiceLogos -->
 <p>
-<img height="48" alt="Next.js" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Next.js/Next.js.png">
+<img height="48" alt="Next.js" src="https://assets.vercel.com/image/upload/v1714730590/front/nextjs/uwu/next-uwu-logo.png">
 <img height="48" alt="Tailwindcss" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Tailwindcss/Tailwindcss6.png">
 <img height="48" alt="React" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/React/React.png">
 <img height="48" alt="TypeScript" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/TypeScript/TypeScript.png">
