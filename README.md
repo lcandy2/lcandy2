@@ -39,21 +39,21 @@ Here are some ideas to get you started:
 https://github.com/SAWARATSUKI/ServiceLogos -->
 <p>
 <img height="48" alt="Next.js" src="https://assets.vercel.com/image/upload/v1714730590/front/nextjs/uwu/next-uwu-logo.png">
-<img height="48" alt="Tailwindcss" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Tailwindcss/Tailwindcss6.png">
+<img height="48" alt="Tailwindcss" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Tailwindcss/Tailwindcss6.png">
 <img height="48" alt="React" src="https://react.dev/images/uwu.png">
 <img height="48" alt="Vue" src="https://vuejs.org/logo-uwu.png">
 <img height="48" alt="TypeScript" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/TypeScript/TypeScript.png">
-<img height="48" alt="Node.js" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Node.js/Node.js.png">
-<img height="48" alt="Html" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Html/HTML.png">
-<img height="48" alt="Python" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Python/Python.png">
-<img height="48" alt="Kotlin" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Kotlin/Kotlin_New.png">
-<img height="48" alt="Swift" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Swift/Swift.png">
-<img height="48" alt="Vite" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Vite/Vite.png">
-<img height="48" alt="C" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/C/C.png">
-<img height="48" alt="C++" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/C++/C++.png">
-<img height="48" alt="Clion" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Clion/Clion.png">
-<img height="48" alt="Cloudflare" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Cloudflare/Cloudflare.png">
-<img height="48" alt="Figma" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Figma/Figma.png">
+<img height="48" alt="Node.js" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Node.js/Node.js.png">
+<img height="48" alt="Html" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Html/HTML.png">
+<img height="48" alt="Python" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Python/Python.png">
+<img height="48" alt="Kotlin" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Kotlin/Kotlin.png">
+<img height="48" alt="Swift" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Swift/Swift.png">
+<img height="48" alt="Vite" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Vite/Vite.png">
+<img height="48" alt="C" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/C/C.png">
+<img height="48" alt="C++" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/C++/C++.png">
+<img height="48" alt="Clion" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Clion/Clion.png">
+<img height="48" alt="Cloudflare" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Cloudflare/Cloudflare.png">
+<img height="48" alt="Figma" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Figma/Figma.png">
 </p>
 
 <!-- Snake Game Image, codes from @ann61c -->
