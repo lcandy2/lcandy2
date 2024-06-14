@@ -52,8 +52,8 @@ https://github.com/SAWARATSUKI/ServiceLogos -->
 <img height="48" alt="Vite" src="https://github.com/lcandy2/lcandy2/assets/45784494/99f46007-661f-43b8-a2e6-a966278a9e4c">
 <img height="48" alt="Hono" src="https://github.com/lcandy2/lcandy2/assets/45784494/8623620d-3925-494e-b6cd-0c8d3c2522e5">
 <img height="48" alt="C" src="https://github.com/lcandy2/lcandy2/assets/45784494/e499bb1f-a760-4ef7-b02c-38f1a75dc4b8">
-<img height="48" alt="C++" src="https://github.com/lcandy2/lcandy2/assets/45784494/a5949d66-5ab7-42bd-9220-6ae9862d1e4c">
-<img height="48" alt="Clion" src="https://github.com/lcandy2/lcandy2/assets/45784494/84fd29fa-61f4-4b12-9aa0-61262d085015">
+<!-- <img height="48" alt="C++" src="https://github.com/lcandy2/lcandy2/assets/45784494/a5949d66-5ab7-42bd-9220-6ae9862d1e4c"> -->
+<!-- <img height="48" alt="Clion" src="https://github.com/lcandy2/lcandy2/assets/45784494/84fd29fa-61f4-4b12-9aa0-61262d085015"> -->
 <img height="48" alt="Cloudflare" src="https://github.com/lcandy2/lcandy2/assets/45784494/70340238-1a37-451c-94b1-e4afb7ae2449">
 <img height="48" alt="Figma" src="https://github.com/lcandy2/lcandy2/assets/45784494/bf256735-49ed-45ae-8453-171fca7e5fea">
 <img height="48" alt="Photoshop" src="https://github.com/lcandy2/lcandy2/assets/45784494/69bd5e40-c019-4dd9-bfe7-e1ace3ff866e">
