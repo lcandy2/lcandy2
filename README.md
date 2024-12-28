@@ -13,7 +13,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lcandy2&show_icons=true&hide_rank=true&hide_title=true" alt="lcandy2's GitHub Stats" />
 </picture>
 
-Web & iOS & Design & Game Engineer, Trying to make more cool stuff. CS at HUNAU 26'.
+Web & iOS & Design & Game Engineer, Trying to make more cool stuff.
 
 <!--
 **lcandy2/lcandy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
