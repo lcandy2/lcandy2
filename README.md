@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 #### 🛠️ Skills and Tools
 <!-- Service Logos by Sawaratsuki
 https://github.com/SAWARATSUKI/ServiceLogos -->
+<!-- 
 <p>
 <img height="48" alt="Next.js" src="https://assets.vercel.com/image/upload/v1714730590/front/nextjs/uwu/next-uwu-logo.png">
 <img height="48" alt="Tailwindcss" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/tailwind%20css/Tailwindcss.png">
@@ -58,7 +59,7 @@ https://github.com/SAWARATSUKI/ServiceLogos -->
 <img height="48" alt="Figma" src="https://github.com/lcandy2/lcandy2/assets/45784494/bf256735-49ed-45ae-8453-171fca7e5fea">
 <img height="48" alt="Photoshop" src="https://github.com/lcandy2/lcandy2/assets/45784494/69bd5e40-c019-4dd9-bfe7-e1ace3ff866e">
 <img height="48" alt="VSCode" src="https://github.com/lcandy2/lcandy2/assets/45784494/f0d35ab8-ec0a-4c40-b3c1-1d3216400221">
-</p>
+</p> -->
 
 <!-- Snake Game Image, codes from @ann61c -->
 <picture>
